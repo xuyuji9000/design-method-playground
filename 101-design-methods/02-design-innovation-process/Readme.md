@@ -1,0 +1,1 @@
+![design-innovation-process](./design-innovation-process.drawio.svg)
