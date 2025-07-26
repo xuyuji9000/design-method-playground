@@ -1,0 +1,87 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "yqoNg3UDa3H4V3N-scek_",
+      "type": "rectangle",
+      "x": 407.28125,
+      "y": 181.28515625,
+      "width": 398.58984375,
+      "height": 147.5625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aq",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1859717929,
+      "version": 111,
+      "versionNonce": 191001338,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "bze__79XVUXaXwlJleR9X"
+        }
+      ],
+      "updated": 1753530849708,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "bze__79XVUXaXwlJleR9X",
+      "type": "text",
+      "x": 412.28125,
+      "y": 205.06640625,
+      "width": 322.75958251953125,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ar",
+      "roundness": null,
+      "seed": 455005222,
+      "version": 193,
+      "versionNonce": 866139898,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753530860577,
+      "link": null,
+      "locked": false,
+      "text": "CASE STUDY: \n\nDesign and manufacture of\nIn-Flight Entertainment(IFE) system",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "yqoNg3UDa3H4V3N-scek_",
+      "originalText": "CASE STUDY: \n\nDesign and manufacture of\nIn-Flight Entertainment(IFE) system",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
