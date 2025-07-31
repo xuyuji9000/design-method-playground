@@ -1,0 +1,87 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "z_Oh5SrP7PcZhn4ihJ6XR",
+      "type": "rectangle",
+      "x": 191.28515625,
+      "y": -4.57421875,
+      "width": 400.85937499999994,
+      "height": 201.57421875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "at",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 394661557,
+      "version": 243,
+      "versionNonce": 1949537787,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "yKA2J02WEIzVZM4ZOb-tJ"
+        }
+      ],
+      "updated": 1753924544965,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "yKA2J02WEIzVZM4ZOb-tJ",
+      "type": "text",
+      "x": 196.28515625,
+      "y": 6.212890625,
+      "width": 382.04766845703125,
+      "height": 180,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "au",
+      "roundness": null,
+      "seed": 296261813,
+      "version": 285,
+      "versionNonce": 1592073883,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1753924544965,
+      "link": null,
+      "locked": false,
+      "text": "REFERENCE\n\n- <about face>\n- chapter 01\n- page 19\n- subtitle: \nBetween research and design: Models, requirements,\nand frameworks\n",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "z_Oh5SrP7PcZhn4ihJ6XR",
+      "originalText": "REFERENCE\n\n- <about face>\n- chapter 01\n- page 19\n- subtitle: \nBetween research and design: Models, requirements, and frameworks\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
